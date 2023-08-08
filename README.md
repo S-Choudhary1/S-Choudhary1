@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suresh Choudhary</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+- 🔭 I’m currently working in **Phenom people**
+
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **suresh30399@gmail.com**
